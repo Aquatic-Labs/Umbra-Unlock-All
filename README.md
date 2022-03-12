@@ -1,4 +1,4 @@
-# Umbra Unlock All ![Downloads](https://img.shields.io/github/downloads/Acher0ns/Umbra-Unlock-All/total)
+# Umbra Unlock All ![Downloads](https://img.shields.io/github/downloads/Aquatic-Labs/Umbra-Unlock-All/total)
 Unlock Everything In Risk of Rain 2
 
 # How To Use:
